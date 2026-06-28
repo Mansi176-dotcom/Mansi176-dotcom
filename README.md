@@ -36,7 +36,7 @@ Open to:
 # Tech Stack
 
 ## Languages
-C++, Python, JavaScript, TypeScript, SQL
+C++, Python, JavaScript, SQL
 
 ## Frontend
 React, TailwindCSS, HTML5, CSS3
@@ -48,7 +48,7 @@ Node.js, Express.js, REST APIs
 MongoDB, MySQL
 
 ## Cloud & Tools
-Git, GitHub, Docker, Linux
+Git, GitHub, VS Code
 
 ---
 
