@@ -48,7 +48,7 @@ Node.js, Express.js, REST APIs
 MongoDB, MySQL
 
 ## Cloud & Tools
-Git, GitHub, Docker, Linux
+Git, GitHub, VS Code
 
 ---
 
